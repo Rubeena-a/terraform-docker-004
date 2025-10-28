@@ -1,0 +1,14 @@
+# Terraform local & state
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform secrets/variables
+*.auto.tfvars
+*.tfvars
+*.env
+
+# OS / IDE
+.vscode/
+.DS_Store
