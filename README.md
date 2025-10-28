@@ -1,9 +1,8 @@
 # terraform-docker-004
 
-###  Project Overview
-
-This project demonstrates Infrastructure as Code (IaC) using Terraform to provision a local Docker container (Nginx).
-It uses the Docker provider to pull an image and run it as a container automatically — no manual Docker commands needed.
+###  Objective:
+ Provision a local Docker container using Terraform.
+It uses the Docker provider to pull an image and run it as a container automatically, no manual Docker commands needed.
 
 ### Provision and manage a Docker container using Terraform.
 
